@@ -1,4 +1,4 @@
-package etec.backend.dto
+package etec.Backend.dto
 
 data class DescuentoResponseDto(
     val montoFinal: Double

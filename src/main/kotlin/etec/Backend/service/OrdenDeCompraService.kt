@@ -1,4 +1,4 @@
-package etec.backend.service
+package etec.Backend.service
 
 data class Item(val nombre: String, val precio: Int)
 
